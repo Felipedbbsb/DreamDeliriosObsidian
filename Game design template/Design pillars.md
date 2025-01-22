@@ -2,6 +2,12 @@
 1. Dreamy/Nostalgia
 2. Psychedelic
 3. Hispanic/Latin
+
+---
+##  Audience Target
+
+	The game was developed with players in mind who are interested in the whimsical cartoon animation genre, and who appreciate the countless possibilities that exist in the Roguelike genre, where, through replayability, one can create and discover almost unlimited power levels.
+	
 ---
 ## Gameplay Mechanics
 

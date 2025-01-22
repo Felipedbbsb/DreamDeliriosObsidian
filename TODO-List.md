@@ -8,22 +8,21 @@ kanban-plugin: board
 
 - [ ] Characters
 - [ ] Enemies
-- [ ] Power Ups
-- [ ] EXP
-- [ ] Combo Multipier
-- [ ] Store
 - [ ] Narrative
-- [ ] Level
 - [ ] Overtime
 - [ ] Stats
-- [ ] Waves
 - [ ] Sounds
 - [ ] Feature Template
 
 
 ## DO ING
 
-- [ ] Player Motivation
+- [ ] Level
+- [ ] EXP
+- [ ] Store
+- [ ] Combo Multipier
+- [ ] Power Ups
+- [ ] Waves
 
 
 ## DONE
@@ -31,6 +30,7 @@ kanban-plugin: board
 - [ ] Summary
 - [ ] Desing Pillars
 - [ ] Game Loop
+- [ ] Player Motivation
 
 
 

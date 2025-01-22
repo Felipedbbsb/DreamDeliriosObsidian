@@ -1,7 +1,3 @@
-
----
-# Summary
-
 Character-based twin-stick gameplay with cultural influences, a card system for upgrades, and roguelike progression.
 
 The game will be launched on **Steam** for Windows, Mac, and Linux.  
@@ -22,15 +18,17 @@ These are the features in your game. They’re game mechanics that apply through
 [[Feature template]]
 
 ---
+# Feature Thesis
+
+Thesis of features, still not implemented or problem solving solutions
+[[Feature template]]
+
+---
 # Content
 
-This is the content of your game. They’re things that can change depending on where the player is at in the game. Depending on the type of game you’re making you might not need all of these pages or they might look very different.
-
 [[Narrative summary]]
-
 [[Characters]]
 
-[[Level summaries]]
 
 ---
 # Production
