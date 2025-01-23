@@ -1,1 +1,3 @@
 [[Shop]]
+[[Cards]]
+[[Tags effects]]

@@ -59,10 +59,114 @@
             "id": "c196325eb60bca5d",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game design template/02_Upgrade_Phase/Cards.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cards"
+            }
+          },
+          {
+            "id": "0874eb57e538e022",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
+            }
+          },
+          {
+            "id": "e2a7978bb93750aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game design template/01_WaveCombat/Waves.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Waves"
+            }
+          },
+          {
+            "id": "d85627a262563d32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game design template/01_WaveCombat/Waves.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Waves"
+            }
+          },
+          {
+            "id": "022391686d95d1e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game design template/01_WaveCombat/01_WaveCombat.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01_WaveCombat"
+            }
+          },
+          {
+            "id": "4a7cf68c8a761847",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game design template/00_Main Menu and Character Selection/00_Main Menu and Character Selection.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00_Main Menu and Character Selection"
+            }
+          },
+          {
+            "id": "2880ca40f680830e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game design template/00_Main Menu and Character Selection/00_Main Menu and Character Selection.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00_Main Menu and Character Selection"
+            }
+          },
+          {
+            "id": "bcd801dcb514228a",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "TODO-List.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "TODO-List"
             }
           },
           {
@@ -94,7 +198,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -125,7 +229,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#rarities",
+                "query": "tag:#Enemies",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -274,38 +378,38 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c196325eb60bca5d",
+  "active": "bcd801dcb514228a",
   "lastOpenFiles": [
+    "README.md",
     "Summary.md",
-    "Game design template/02_Upgrade_Phase/02_Upgrade_Phase.md",
-    "Game design template/02_Upgrade_Phase/Shop.md",
-    "TODO-List.md",
-    "Untitled.md",
-    "Game design template/Game loops.md",
-    "Game design template/01_WaveCombat/01_WaveCombat.md",
+    "Cards and abilities.md",
     "Game design template/00_Main Menu and Character Selection/00_Main Menu and Character Selection.md",
     "Game design template/00_Main Menu and Character Selection/Characters/Characters.md",
+    "Game design template/00_Main Menu and Character Selection/Delirium Levels.md",
+    "Game design template/00_Main Menu and Character Selection/Loadout.md",
+    "Game design template/01_WaveCombat/01_WaveCombat.md",
+    "Game design template/00_Main Menu and Character Selection/Characters/Characters/Hades.md",
+    "Game design template/00_Main Menu and Character Selection/Characters/Characters/Zagreus.md",
+    "Game design template/00_Main Menu and Character Selection/Characters/Characters/Achilles.md",
+    "Game design template/01_WaveCombat/Leveling.md",
+    "Game design template/01_WaveCombat/Enemies.md",
+    "Game design template/01_WaveCombat/Waves.md",
+    "Game design template/Design pillars.md",
+    "Game design template/02_Upgrade_Phase/02_Upgrade_Phase.md",
+    "Testing plan.md",
+    "Resources produced by chopping trees.md",
+    "Level summary.md",
+    "Game design template/02_Upgrade_Phase/Cards.md",
+    "Game design template/02_Upgrade_Phase/Shop.md",
+    "Game design template/02_Upgrade_Phase/Tags effects.md",
+    "TODO-List.md",
+    "Game design template/Game loops.md",
     "Game design template/01_WaveCombat",
     "Game design template/Narrative summary.md",
     "Game design template/Player motivation and progression.md",
     "Game design template/00_Main Menu and Character Selection",
     "Game design template/02_Upgrade_Phase",
-    "Cards and abilities.md",
-    "Game design template/Design pillars.md",
-    "Game design template/Feature template.md",
-    "Historical Problem Space Framework.md",
-    "Testing Plan Kanban.md",
-    "Game design template/Player motivation and progression/Narrative summary/Level summary/Chapter 3.md",
-    "Game design template/Player motivation and progression/Narrative summary/Level summary.md",
     "Game design template/Player motivation and progression/Untitled_drawing_(2).png",
-    "Game design template/00_Main Menu and Character Selection/Characters/Characters/Zagreus.md",
-    "Game design template/Feature template/Resources produced by chopping trees/Evergreen tree.md",
-    "Game design template/Feature template/Resources produced by chopping trees/Deciduous.md",
-    "Game design template/Feature template/Resources produced by chopping trees/Bamboo.md",
-    "Game design template/Feature template/Testing plan/Build.md",
-    "Game design template/Feature template/Testing plan/Concept.md",
-    "Game design template/Feature template/Testing plan/Prototype.md",
-    "Game design template/Feature template/Resources produced by chopping trees.md",
     "Game design template/Game loops/Untitled_drawing_(1).png",
     "Images/GameLoop.png",
     "Images/CoreLoop.png",

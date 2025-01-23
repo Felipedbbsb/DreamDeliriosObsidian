@@ -24,7 +24,7 @@
 - **Character Interactions:** #Dialogues between characters and Magnus evolve through progress.
 ---
 ### Waves and Progression
-1. #Wave Structure:** 15-20 progressively challenging waves.
+1. #Waves Structure:** 15-20 progressively challenging waves.
 2. **Enemy Variety:** Increasingly dynamic enemy types and attack patterns.
 3. **Break Periods:** Time between waves for players to purchase upgrades and strategize.
 ---

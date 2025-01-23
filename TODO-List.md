@@ -19,7 +19,6 @@ kanban-plugin: board
 
 - [ ] Level
 - [ ] EXP
-- [ ] Store
 - [ ] Combo Multipier
 - [ ] Power Ups
 - [ ] Waves
@@ -31,6 +30,7 @@ kanban-plugin: board
 - [ ] Desing Pillars
 - [ ] Game Loop
 - [ ] Player Motivation
+- [ ] Store
 
 
 
