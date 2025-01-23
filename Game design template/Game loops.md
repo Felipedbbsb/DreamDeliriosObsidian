@@ -4,13 +4,13 @@
 The core gameplay loop in *Dream Delirio's* blends fast-paced action, strategy, and progression. Below are the key stages of the loop:
 
 ---
-### **1. Main Menu and Character Selection**
+### **[[00_Main Menu and Character Selection]]**
 - Choose your #Character from a roster, each with unique abilities and traits.
 - Adjust **Delirium Levels** (difficulty modifiers) to tailor the challenge.
 - Begin your journey into Magnus's subconscious.
   ![[CharacterSelectiom.png]]
 ---
-### **2. Wave Combat (Core Gameplay)**
+### **[[01_WaveCombat]]**
 - **Duration:** Each wave lasts 30 seconds to 2 minutes.
 - **Objectives:**
   - Defeat enemies to progress to the next wave.
@@ -20,7 +20,7 @@ The core gameplay loop in *Dream Delirio's* blends fast-paced action, strategy, 
 - To end a wave (2 options still not decided): due to a timer or by killing a specific number of enemies
 ![[Gameplay.png]]
 ---
-### **3. Upgrade Phase**
+### **[[02_Upgrade_Phase]]**
 - Between #Waves, access the #Shop to enhance your build:
   - Spend #DeliriumCoins to purchase ability #Cards.
   - #Reroll card options for better synergy.
