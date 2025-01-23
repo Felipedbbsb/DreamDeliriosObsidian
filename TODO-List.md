@@ -6,13 +6,11 @@ kanban-plugin: board
 
 ## TODO
 
+- [ ] Stats
 - [ ] Characters
-- [ ] Enemies
 - [ ] Narrative
 - [ ] Overtime
-- [ ] Stats
 - [ ] Sounds
-- [ ] Feature Template
 
 
 ## DO ING
@@ -20,8 +18,9 @@ kanban-plugin: board
 - [ ] Level
 - [ ] EXP
 - [ ] Combo Multipier
-- [ ] Power Ups
 - [ ] Waves
+- [ ] Enemies
+- [ ] Feature Template
 
 
 ## DONE
@@ -31,6 +30,7 @@ kanban-plugin: board
 - [ ] Game Loop
 - [ ] Player Motivation
 - [ ] Store
+- [ ] Power Ups
 
 
 

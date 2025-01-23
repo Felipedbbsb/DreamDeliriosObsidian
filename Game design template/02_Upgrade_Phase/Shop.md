@@ -3,7 +3,7 @@
 Period during which the game is paused, allowing the purchase of #Cards. It appears once a #Waves is finished. Cards can be bought or upgraded using #DeliriumCoins , not spending coins, save them for the next stores.
 
 
-When the store time is established, three #Cards card options (1) are offered for purchase, with the possibility of rerolling (2) the pool of cards presented. The #Reroll  also individually changes the rarity of each card and costs #DeliriumCoins. Once drawn, a card goes to your hand (3) and remains visually present on the screen. Cards in your hand can be sold and upgraded(4). Buy and/or sell movements can be triggers used on cards to enhance adverse effects, for example: when selling a card, increase its damage by 10%. The main methodology for creating cards is based on improving choice making in 20MTD (5) and maintains dynamism and simplicity (6). To close the store you need to press a skip button. It is possible to purchase upgrades, including purchasing upgrades from the pool of three cards or directly upgrading the cards in your hand (this action being considerably more expensive)
+When the store time is established, three #Cards card options (1) are offered for purchase, with the possibility of rerolling (2) the pool of cards presented. The #Reroll  also individually changes the #Rarity of each card and costs #DeliriumCoins. Once drawn, a card goes to your hand (3) and remains visually present on the screen. Cards in your hand can be sold and upgraded(4). Buy and/or sell movements can be triggers used on cards to enhance adverse effects, for example: when selling a card, increase its damage by 10%. The main methodology for creating cards is based on improving choice making in 20MTD (5) and maintains dynamism and simplicity (6). To close the store you need to press a skip button. It is possible to purchase upgrades, including purchasing upgrades from the pool of three cards or directly upgrading the cards in your hand (this action being considerably more expensive)
 
 apertar um botão de skip. É possível comprar upgrades, incluindo comprar upgrades no pool das três cartas ou diretamente upar as cartas na mão (esta ação sendo consideravelmente mais cara)
 
@@ -14,7 +14,7 @@ apertar um botão de skip. É possível comprar upgrades, incluindo comprar upgr
 - The player can choose to buy none, some, or all of the cards, depending on their availability of #DeliriumCoins.
 
 #### Card Rarity
-- Cards are categorized into three #Rarities : Common, Rare, and Epic.
+- Cards are categorized into three #Rarity: Common, Rare, and Epic.
 - When generating a card, the system prioritizes cards that the player does not currently own to allow for the purchase of upgrades, which is more economical than upgrading directly.
 
 #### Rarity Calculation
@@ -65,7 +65,7 @@ apertar um botão de skip. É possível comprar upgrades, incluindo comprar upgr
 ### 3. Hand/Deck
 
 #### Visualization:
-- The hand, representing the player's deck, is always visible when accessing options or entering the shop.  
+- The hand, representing the player's #Deck, is always visible when accessing options or entering the shop.  
 - All cards in the hand are visible, providing a complete view of the deck at any moment.
 
 #### Interaction and Limits:
@@ -81,7 +81,7 @@ apertar um botão de skip. É possível comprar upgrades, incluindo comprar upgr
 - These animations highlight when a card activates another effect, providing clear visual feedback to the player.
 
 #### Interaction Flow:
-- Players can drag cards to fields for selling or upgrading, simplifying deck management.  
+- Players can drag cards to fields for selling or upgrading, simplifying #Deck management.  
 - Alternatively, clicking on a card opens a contextual menu with sell and upgrade options, ensuring intuitive and efficient interaction.
 
 ---
