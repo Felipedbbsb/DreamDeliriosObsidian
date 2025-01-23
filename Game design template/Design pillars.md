@@ -14,22 +14,22 @@
 1. **Twin-Stick Shooter
 2. **Rogue-like Elements
 3. **XP and Delirium Coins:**
-    - XP is collected to level up during waves and gain coins.
-    - Coins are used between waves to purchase upgrades and abilities.
-4. **Dynamic Difficulty:** A scalable "Delirium" system adjusts challenge levels
+    - #XP is collected to level up during waves and gain coins.
+    - #DeliriumCoins are used between waves to purchase #Upgrade  and abilities( new #Cards ).
+4. **Dynamic Difficulty:** A scalable #DeliriumLevels  system adjusts challenge levels
 ---
 ## Characters
-- **Initial Roster:** 7 characters, with one unlocked at the start and others accessible via achievements.
-- **Unique Abilities:** Each character possesses distinct skills based on specific cards and different starting weapons.
-- **Character Interactions:** Dialogues between characters and Magnus evolve through progress.
+- **Initial Roster:** 7 #Character , with one unlocked at the start and others accessible via achievements.
+- **Unique Abilities:** Each #Character  possesses distinct skills based on specific cards and different starting weapons.
+- **Character Interactions:** #Dialogues between characters and Magnus evolve through progress.
 ---
 ### Waves and Progression
-1. **Wave Structure:** 15-20 progressively challenging waves.
+1. #Wave Structure:** 15-20 progressively challenging waves.
 2. **Enemy Variety:** Increasingly dynamic enemy types and attack patterns.
 3. **Break Periods:** Time between waves for players to purchase upgrades and strategize.
 ---
 ### Abilities and Upgrades
-1. **Card-Based System:** Players unlock abilities represented as collectible cards.
+1. **Card-Based System:** Players unlock abilities represented as collectible #Cards .
 2. **Synergy:** Combining specific cards creates powerful effects.
 3. **Customization:** Players tailor builds to match their playstyle.
 
@@ -51,7 +51,7 @@
 ---
 ### Audio
 
-1. **Audio Design:** Latin-inspired soundtracks with psychedelic, Prog, DreamPop, eletronic refereneces
+1. **Audio Design:** Latin-inspired soundtracks with psychedelic, Prog, DreamPop, eletronic refereces
 
 ---
 ### Controls
@@ -63,7 +63,7 @@
 5. Interaction with cards tween!!!!
 
 ---
-### Delirium Difficulty System
+### Delirium Difficulty System #DeliriumLevels 
 
 1. **Leveling:** Each character starts at Delirium Level 0, increasing as runs are completed.
 2. **Scaling:** Higher levels introduce more complex enemies and faster-paced waves.
