@@ -8,7 +8,6 @@ kanban-plugin: board
 
 - [ ] Stats
 - [ ] Characters
-- [ ] Narrative
 - [ ] Overtime
 - [ ] Sounds
 - [ ] Revisar XP, Luck Rarity, Slow down time, fazer trickster, knockback dos inimigos, flash avisando q vai atacar, tiro dos inimigos, hit frame, efeito de tiro saindo, tiro colidindo, colidindo  no inimigo,
@@ -19,9 +18,9 @@ kanban-plugin: board
 - [ ] Level
 - [ ] EXP
 - [ ] Combo Multipier
+- [ ] Narrative
 - [ ] Waves
 - [ ] Enemies
-- [ ] Feature Template
 
 
 ## DONE
@@ -32,6 +31,7 @@ kanban-plugin: board
 - [ ] Player Motivation
 - [ ] Store
 - [ ] Power Ups
+- [ ] Feature Template
 
 
 
