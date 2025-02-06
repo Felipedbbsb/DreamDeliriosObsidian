@@ -2,4 +2,4 @@
 
 A summary of what happens in your game in terms of story. You might wish to link to your [[Level summary|level]] or [[Characters|character]] summaries.
 
-
+The game's narrative must encompass the game's atmosphere, communicate why you are doing what you are doing in the game. Communicate the idea that characters help Magnus, and that he uses weapons that embody the characters' persona, in addition to their skills. The narrative should encourage continuing with the #DeliriumLevels in addition to making interesting interactions between the characters in order to delve deeper into the lore of the universe. There must be random interactions and more specific interactions that give a feeling of progression, especially with Delirium Levels in order to want to resolve something or discover something about this character. Again interconnecting all these points but assuming a psychedelic and dreamy character of Dream Delirios, in this case explaining everything is not a necessity and being vague can be interesting.

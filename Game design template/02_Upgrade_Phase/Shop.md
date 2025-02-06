@@ -54,7 +54,7 @@ apertar um botão de skip. É possível comprar upgrades, incluindo comprar upgr
 #### Reroll Cost:
 - The cost of a reroll is calculated as:  
   **Reroll Cost = (1 + Number of Rerolls)**  Starts on 1 every shop
-  - The minimum cost for a reroll is 3 units.  
+  - The minimum cost for a reroll is 1 units.  
   - The cost is always rounded to the nearest integer.
 
 #### Price Increment:

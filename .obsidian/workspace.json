@@ -25,20 +25,14 @@
             "id": "96ff711745f8d53a",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "TODO-List.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Game design template/Narrative summary.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "TODO-List"
+              "icon": "lucide-file",
+              "title": "Narrative summary"
             }
           }
         ],
@@ -61,7 +55,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -224,35 +219,35 @@
   },
   "active": "96ff711745f8d53a",
   "lastOpenFiles": [
+    "Game design template/Player motivation and progression.md",
+    "Game design template/Narrative summary.md",
+    "Game design template/00_Main Menu and Character Selection/00_Main Menu and Character Selection.md",
+    "Game design template/00_Main Menu and Character Selection/Delirium Levels.md",
+    "Game design template/00_Main Menu and Character Selection/Loadout.md",
+    "Game design template/01_WaveCombat/Enemies.md",
     "Game design template/01_WaveCombat/Waves.md",
     "Game design template/01_WaveCombat/Leveling.md",
-    "Game design template/01_WaveCombat/Enemies.md",
-    "Game design template/00_Main Menu and Character Selection/Loadout.md",
-    "Game design template/02_Upgrade_Phase/Stats.md",
-    "Game design template/02_Upgrade_Phase/Tags effects.md",
-    "Game design template/02_Upgrade_Phase/Cards.md",
     "Game design template/02_Upgrade_Phase/Shop.md",
+    "Game design template/02_Upgrade_Phase/Stats.md",
+    "Game design template/02_Upgrade_Phase/Cards.md",
+    "Game design template/02_Upgrade_Phase/02_Upgrade_Phase.md",
+    "Game design template/02_Upgrade_Phase/Tags effects.md",
     "TODO-List.md",
     "README.md",
+    "Summary.md",
+    "Game design template/01_WaveCombat/01_WaveCombat.md",
+    "Excalidraw/Drawing 2025-01-23 17.59.36.excalidraw.md",
     "2025-01-23.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Game design template/02_Upgrade_Phase/02_Upgrade_Phase.md",
     "Game design template/Game loops.md",
-    "Game design template/01_WaveCombat/01_WaveCombat.md",
-    "Game design template/00_Main Menu and Character Selection/00_Main Menu and Character Selection.md",
-    "Excalidraw/Drawing 2025-01-23 17.59.36.excalidraw.md",
     "Excalidraw",
-    "Summary.md",
     "Cards and abilities.md",
     "Game design template/00_Main Menu and Character Selection/Characters/Characters.md",
-    "Game design template/00_Main Menu and Character Selection/Delirium Levels.md",
     "Game design template/00_Main Menu and Character Selection/Characters/Characters/Hades.md",
     "Game design template/00_Main Menu and Character Selection/Characters/Characters/Zagreus.md",
     "Game design template/00_Main Menu and Character Selection/Characters/Characters/Achilles.md",
     "Game design template/Design pillars.md",
-    "Testing plan.md",
-    "Resources produced by chopping trees.md",
     "Game design template/01_WaveCombat",
     "Game design template/00_Main Menu and Character Selection",
     "Game design template/02_Upgrade_Phase",
