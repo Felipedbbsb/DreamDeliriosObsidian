@@ -4,25 +4,25 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
-  "showOrphans": false,
+  "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Game design template/00_Main Menu and Character Selection\"  ",
+      "query": "path:\"Core/00_Main Menu and Character Selection\"  ",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "path:\"Game design template/01_WaveCombat\"  ",
+      "query": "path:\"Core/01_WaveCombat\" ",
       "color": {
         "a": 1,
         "rgb": 14725458
       }
     },
     {
-      "query": "path:\"Game design template/02_Upgrade_Phase\"  ",
+      "query": "path:Core/02_Upgrade_Phase  ",
       "color": {
         "a": 1,
         "rgb": 11657298
@@ -33,6 +33,13 @@
       "color": {
         "a": 1,
         "rgb": 5397472
+      }
+    },
+    {
+      "query": "path:Core/SandBox  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
       }
     }
   ],
@@ -46,6 +53,6 @@
   "repelStrength": 9.0203403902034,
   "linkStrength": 0.583852220838522,
   "linkDistance": 242,
-  "scale": 0.05544951890618373,
-  "close": true
+  "scale": 0.1871421263083696,
+  "close": false
 }

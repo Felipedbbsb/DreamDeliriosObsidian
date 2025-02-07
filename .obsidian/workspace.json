@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core/SandBox/Better Drops.md",
+                "file": "Core/02_Upgrade_Phase/02_Upgrade_Phase.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Better Drops"
+              "title": "02_Upgrade_Phase"
             }
           }
         ],
@@ -219,13 +219,15 @@
   },
   "active": "96ff711745f8d53a",
   "lastOpenFiles": [
+    "Core/02_Upgrade_Phase/02_Upgrade_Phase.md",
+    "Core/SandBox/Character to guns.md",
+    "Core/SandBox/000Feature template.md",
+    "Core/SandBox/Better Drops.md",
     "Core/SandBox/Better HUD.md",
     "Core/SandBox/Better sense of priority on battle.md",
     "Core/SandBox/Cards needs to be sick.md",
     "Core/SandBox/Cards upgrade and sell not clear.md",
     "TODO-List.md",
-    "Core/SandBox/Better Drops.md",
-    "Core/SandBox/000Feature template.md",
     "Summary.md",
     "Core/SandBox",
     "Core/Design pillars.md",
@@ -242,10 +244,8 @@
     "Core/00_Main Menu and Character Selection/00_Main Menu and Character Selection.md",
     "Core/00_Main Menu and Character Selection/Delirium Levels.md",
     "Core/00_Main Menu and Character Selection/Loadout.md",
-    "Core/02_Upgrade_Phase/02_Upgrade_Phase.md",
     "README.md",
     "Core/01_WaveCombat/01_WaveCombat.md",
-    "Excalidraw/Drawing 2025-01-23 17.59.36.excalidraw.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Excalidraw",
