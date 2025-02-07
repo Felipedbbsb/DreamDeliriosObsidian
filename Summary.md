@@ -15,13 +15,13 @@ Art style and narrative aim to appeal to fans of 2000s nostalgia cartoons, while
 
 These are the features in your game. They’re game mechanics that apply throughout the whole of the game.
 
-[[Feature template]]
+[[000Feature template]]
 
 ---
 # Feature Thesis
 
 Thesis of features, still not implemented or problem solving solutions
-[[Feature template]]
+[[000Feature template]]
 
 ---
 # Content

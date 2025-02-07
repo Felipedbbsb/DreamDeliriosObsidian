@@ -25,20 +25,14 @@
             "id": "96ff711745f8d53a",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "TODO-List.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Core/SandBox/Better Drops.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "TODO-List"
+              "icon": "lucide-file",
+              "title": "Better Drops"
             }
           }
         ],
@@ -225,8 +219,13 @@
   },
   "active": "96ff711745f8d53a",
   "lastOpenFiles": [
-    "Core/SandBox/Feature template.md",
+    "Core/SandBox/Better HUD.md",
+    "Core/SandBox/Better sense of priority on battle.md",
+    "Core/SandBox/Cards needs to be sick.md",
+    "Core/SandBox/Cards upgrade and sell not clear.md",
     "TODO-List.md",
+    "Core/SandBox/Better Drops.md",
+    "Core/SandBox/000Feature template.md",
     "Summary.md",
     "Core/SandBox",
     "Core/Design pillars.md",
@@ -247,13 +246,9 @@
     "README.md",
     "Core/01_WaveCombat/01_WaveCombat.md",
     "Excalidraw/Drawing 2025-01-23 17.59.36.excalidraw.md",
-    "2025-01-23.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Excalidraw",
-    "Cards and abilities.md",
-    "Core/00_Main Menu and Character Selection/Characters/Characters.md",
-    "Game design template/00_Main Menu and Character Selection/Characters/Characters/Hades.md",
     "Core/01_WaveCombat",
     "Core/00_Main Menu and Character Selection",
     "Core/02_Upgrade_Phase",
