@@ -10,7 +10,7 @@ kanban-plugin: board
 - [ ] Characters
 - [ ] Overtime
 - [ ] Sounds
-- [ ] Revisar XP, Luck Rarity, Slow down time, fazer trickster, knockback dos inimigos, flash avisando q vai atacar, tiro dos inimigos, hit frame, efeito de tiro saindo, tiro colidindo, colidindo  no inimigo,
+- [ ] Revisar XP, Luck Rarity, Slow down time, fazer trickster, knockback dos inimigos, flash avisando q vai atacar, tiro dos inimigos, hit frame, efeito de tiro saindo, tiro colidindo, colidindo  no inimigo, Aim stilized, Timer, Scene manager better, screen transition
 
 
 ## DO ING
