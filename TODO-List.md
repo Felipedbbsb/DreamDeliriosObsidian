@@ -10,7 +10,7 @@ kanban-plugin: board
 - [ ] Characters
 - [ ] Overtime
 - [ ] Sounds
-- [ ] Revisar XP, Luck Rarity, Slow down time, fazer trickster, knockback dos inimigos, flash avisando q vai atacar, tiro dos inimigos, hit frame, efeito de tiro saindo, tiro colidindo, colidindo  no inimigo, Aim stilized, Timer, Scene manager better, screen transition
+- [ ] Revisar XP, Luck Rarity, Slow down time, fazer trickster, knockback dos inimigos, flash avisando q vai atacar, tiro dos inimigos, hit frame, efeito de tiro saindo, tiro colidindo, colidindo  no inimigo, Aim stilized, Timer, Scene manager better, screen transition, orbit drops, repeating clone shadows speed vfx, enemies spawning as soon enemy spawner kills all enemies, cards curvature lower it, cards showing buy sell flickering
 
 
 ## DO ING
