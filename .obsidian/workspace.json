@@ -13,76 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game design template/02_Upgrade_Phase/Tags effects.md",
+                "file": "Core/,Sound.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tags effects"
-            }
-          },
-          {
-            "id": "96ff711745f8d53a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core/01_WaveCombat/Enemies.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Enemies"
-            }
-          },
-          {
-            "id": "d2c3ba5c213d185d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Summary.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Summary"
-            }
-          },
-          {
-            "id": "f97a8a39ce6e0e1b",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "TODO-List.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "TODO-List"
-            }
-          },
-          {
-            "id": "b1b6db6356a07af1",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/GameLoop.png"
-              },
-              "icon": "lucide-image",
-              "title": "GameLoop"
+              "title": ",Sound"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -263,38 +202,38 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f97a8a39ce6e0e1b",
+  "active": "491286ef60ea93f4",
   "lastOpenFiles": [
-    "Core/02_Upgrade_Phase/Shop.md",
-    "Core/02_Upgrade_Phase/Stats.md",
     "Core/Design pillars.md",
     "Core/Game loops.md",
+    "Core/Player motivation and progression.md",
     "Core/Narrative summary.md",
+    "Images/GameLoop.png",
+    "Images/CoreLoop.png",
+    "Core/,Sound.md",
+    "Core/01_WaveCombat/Enemies.md",
+    "Summary.md",
+    "Core/SandBox/000Feature template.md",
+    "TODO-List.md",
+    "Core/02_Upgrade_Phase/Shop.md",
+    "Core/02_Upgrade_Phase/Stats.md",
     "Core/SandBox/TODO Better HUD.md",
     "Core/SandBox/Cards needs to be sick.md",
     "Core/SandBox/Better Drops.md",
-    "Core/SandBox/000Feature template.md",
-    "Summary.md",
     "Images/Gameplay.png",
-    "Images/GameLoop.png",
-    "Images/CoreLoop.png",
-    "TODO-List.md",
     "Core/SandBox/Cards upgrade and sell not clear.md",
     "Images/CharacterSelectiom.png",
-    "Core/Player motivation and progression.md",
     "Core/SandBox/Better sense of priority on battle.md",
     "Core/SandBox/Character to guns.md",
     "Core/02_Upgrade_Phase/Tags effects.md",
     "Core/02_Upgrade_Phase/Cards.md",
     "Core/01_WaveCombat/Waves.md",
     "Core/01_WaveCombat/Leveling.md",
-    "Core/01_WaveCombat/Enemies.md",
     "README.md",
     "Testing Plan Kanban.md",
     "Core/02_Upgrade_Phase/02_Upgrade_Phase.md",
     "Core/SandBox",
     "Core/00_Main Menu and Character Selection/00_Main Menu and Character Selection.md",
-    "Core/00_Main Menu and Character Selection/Delirium Levels.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Excalidraw",

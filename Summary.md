@@ -9,13 +9,8 @@ Art style and narrative aim to appeal to fans of 2000s nostalgia cartoons, while
 - [[Design pillars]]
 - [[Game loops]]
 - [[Player motivation and progression]]
-
----
-# Features
-
-These are the features in your game. They’re game mechanics that apply throughout the whole of the game.
-
-[[000Feature template]]
+- [[,Sound]]
+  
 
 ---
 # Feature Thesis
