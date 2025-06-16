@@ -1,7 +1,7 @@
 # 3 Words
-1. Dreamy/Nostalgia
-2. Psychedelic
-3. Hispanic/Latin
+1. Shooter - Guns!
+2. Psychedelic - Dreamy/Nostalgia
+3. Cartoon - Hispanic/Latin
 
 ---
 ##  Audience Target

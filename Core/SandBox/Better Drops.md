@@ -4,11 +4,11 @@ Players do not understand or notice the importance of collecting drops. This cou
 
 ## Hypothesis
 
-How is this problem going to be solved?
+Transforming drops in particles and add juices to hud when collecting drops.
 
 ## Measuring success
 
-Write down how you are going to test that this feature works. What metrics are you looking out for (if you’re using analytics)? What behaviour are you expecting (if you’re doing playtesting)?
+Drops are clear as why they need to be collected. As collecting drops adds to XP bar that adds money on level up. And needs to 
 
 ## Results
 

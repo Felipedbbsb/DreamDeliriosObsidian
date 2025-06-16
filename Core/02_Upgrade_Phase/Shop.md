@@ -32,11 +32,11 @@ apertar um botão de skip. É possível comprar upgrades, incluindo comprar upgr
 
 #### Rarity Chances Table(Example: might change INGAME)
 
-| Rarity  | Available from Level | Minimum Level | Base Chance | +Chance per Level | Max Chance |
-|---------|-----------------------|---------------|-------------|-------------------|------------|
-| Common  | 1                     | 1             | 100%        | 0%                | 100%       |
-| Rare    | 2                     | 1             | 0%          | 5%                | 60%        |
-| Epic    | 4                     | 3             | 0%          | 2%                | 25%        |
+| Rarity | Available from Level | Minimum Level | Base Chance | +Chance per Level | Max Chance |
+| ------ | -------------------- | ------------- | ----------- | ----------------- | ---------- |
+| Common | 1                    | 1             | 100%        | 0%                | 100%       |
+| Rare   | 2                    | 1             | 0%          | 5%                | 60%        |
+| Epic   | 4                    | 3             | 0%          | 2%                | 25%        |
 ### Example lvl 16 with 0 luck
 
 | Level | 1    | 2    | 3    | 4     | 5     | 6     | 7     | 8     | 9     | 10    | 11    | 12    | 13    | 14    | 15     | 16     |
@@ -92,7 +92,9 @@ apertar um botão de skip. É possível comprar upgrades, incluindo comprar upgr
 - **Common Cards**: Cost ranges from 1-5 #DeliriumCoins.  
 - **Rare Cards**: Cost ranges from 3-7 #DeliriumCoins.  
 - **Epic Cards**: Cost ranges from 6-10 #DeliriumCoins.  
-- Each card has preset values within these ranges.
+- Each card has preset values within these ranges.\
+
+Start 
 
 #### Upgrades:
 -Upgrading a card just pay the difference between the rarity costs.
