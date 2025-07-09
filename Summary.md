@@ -9,7 +9,7 @@ Art style and narrative aim to appeal to fans of 2000s nostalgia cartoons, while
 - [[Design pillars]]
 - [[Game loops]]
 - [[Player motivation and progression]]
-- [[,Sound]]
+- [[Sound]]
   
 
 ---

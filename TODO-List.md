@@ -8,8 +8,6 @@ kanban-plugin: board
 
 - [ ] Overtime
 - [ ] Revisar XP, Luck Rarity, Slow down time, fazer trickster, knockback dos inimigos, flash avisando q vai atacar, tiro dos inimigos, hit frame, efeito de tiro saindo, tiro colidindo, colidindo  no inimigo, Aim stilized, Timer, Scene manager better, screen transition, orbit drops, repeating clone shadows speed vfx, enemies spawning as soon enemy spawner kills all enemies, cards curvature lower it, cards showing buy sell flickering
-- [ ] 16/6 - Complete card port DD
-- [ ] 16/6 - Complete card port XIII
 - [ ] Escrever cartas
 - [ ] 19/6 - Buttons extension
 - [ ] 20/6 - Cards max
@@ -24,6 +22,8 @@ kanban-plugin: board
 
 - [ ] EXP
 - [ ] Narrative
+- [ ] 16/6 - Complete card port DD
+- [ ] 16/6 - Complete card port XIII
 
 
 ## DONE
